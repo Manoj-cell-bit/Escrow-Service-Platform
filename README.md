@@ -132,4 +132,4 @@ By leveraging blockchain technology, we envision a world where any two parties c
 
 ## Contract Details
 CDJN4CP6SEFJBTMGR26ZQO2QLPQULWXHYD5ODHFZAQE4DPPXXBH6XIKZ
-![Uploading image.png…]()
+![Contract Image](image.png)
